@@ -1,0 +1,25 @@
+{
+    "name": "gonzalo123/katabokata",
+    "authors": [
+        {
+            "name": "Gonzalo Ayuso",
+            "email": "gonzalo123@gmail.com"
+        }
+    ],
+    "require": {
+        "symfony/yaml": "2.4.*@dev",
+        "symfony/config": "2.3.*@dev"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "dev-master"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "": "src/"
+        }
+    },
+    "config": {
+        "bin-dir": "bin/"
+    }
+}

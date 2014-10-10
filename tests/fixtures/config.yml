@@ -1,0 +1,5 @@
+basePrice: 20
+
+ingredients:
+  - {name: jamon, price: 2}
+  - {name: lomo, price: 1}
